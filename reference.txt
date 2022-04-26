@@ -1,0 +1,11 @@
+1. dict https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3
+2. dict find min https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-15.php
+3. Astar search https://www.youtube.com/watch?v=6TsL96NAZCo&ab_channel=JohnLevine
+
+
+"""
+ucs reference:
+    1. https://www.youtube.com/watch?v=CfZUk6ldQ1k&ab_channel=Education4u
+    2. https://fu-sheng-wang.blogspot.com/2017/01/ai-7-un-informed-search-uniform-cost.html
+    3. https://docs.google.com/document/d/12_4pEWABwzdVoHVvIdqtNwz4VTvuHL2OB8XtXVcJiFI/edit
+"""
